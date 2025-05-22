@@ -1,0 +1,12 @@
+# Node.js
+server/node_modules
+server/dist
+
+# React
+client-admin/node_modules
+client-admin/build
+
+client-customer/node_modules
+client-customer/build
+
+coverage
